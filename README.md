@@ -1,6 +1,5 @@
 # Joe Marriott
 
-***
 [Education](#education) | [Employment](#employment)
 
 I am an enthusiastic, outgoing and ambitious person looking forward to starting my career in tech.
@@ -8,8 +7,8 @@ I am an enthusiastic, outgoing and ambitious person looking forward to starting 
 Currently I am enrolled at Makers Academy for the remote course starting in January.
 
 ***
-
 ### <a name="education">Education</a>
+***
 
 **Makers Academy (January - April 2016)**<br>
 <br>
@@ -24,8 +23,8 @@ BSc (Hons) Physiotherapy - 2.1 <br><br>
 - Statistics - A <br>
 
 ***
-
 ### <a name="employment">Employment</a>
+***
 
 **Doncaster Rovers Football Club** <br>
 Lead Academy Physiotherapist <br>
