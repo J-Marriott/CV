@@ -7,6 +7,8 @@ I am an enthusiastic, outgoing and ambitious person looking forward to starting 
 
 Currently I am enrolled at Makers Academy for the remote course starting in January.
 
+***
+
 ### <a name="education">Education</a>
 
 **Makers Academy (January - April 2016)**<br>
@@ -15,10 +17,12 @@ Currently I am enrolled at Makers Academy for the remote course starting in Janu
 BSc (Hons) Physiotherapy - 2.1
 
 **Danum Sixth Form Technology College (2008)**<br>
-A Levels <br>
+#### A Levels <br>
 - Biology - A <br>
 - Mathematics - A <br>
 - Statistics - A <br>
+
+***
 
 ### <a name="employment">Employment</a>
 
@@ -41,3 +45,5 @@ September 2010 - July 2015 <br>
 **DSG International (Currys)** <br>
 Sales Advisor <br>
 September 2006 - August 2010 <br>
+
+***
