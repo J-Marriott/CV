@@ -15,7 +15,7 @@ Currently I am enrolled at Makers Academy for the remote course starting in Janu
 <br>
 
 **Sheffield Hallam University (2015)**<br>
-BSc (Hons) Physiotherapy - 2.1 <br>
+BSc (Hons) Physiotherapy - 2.1 <br><br>
 
 **Danum Sixth Form Technology College (2008)**<br>
 #### A Levels <br>
