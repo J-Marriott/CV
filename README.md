@@ -1,6 +1,6 @@
 # Joe Marriott
 
-[About Me](#about_me)[Skills](#skills) | [Education](#education) | [Employment](#employment)
+[About Me](#about_me) | [Skills](#skills) | [Education](#education) | [Employment](#employment)
 
 ***
 ### <a name="about_me">About Me</a>
