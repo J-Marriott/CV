@@ -1,6 +1,6 @@
 # Joe Marriott
 
-[About Me](#about_me) | [Skills](#skills) | [Education](#education) | [Employment](#employment)
+[About Me](#about_me)  |  [Skills](#skills)  |  [Education](#education)  |  [Employment](#employment)
 
 ***
 ### <a name="about_me">About Me</a>
@@ -21,7 +21,7 @@ Another skill I have improved during my time in education and employment is my a
 ### <a name="education">Education</a>
 ***
 
-**Makers Academy (January - April 2016)**<br>
+**Makers Academy (January - April 2017)**<br>
 <br>
 
 **Sheffield Hallam University (2015)**<br>
