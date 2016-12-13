@@ -1,10 +1,14 @@
 # Joe Marriott
 
-[Skills](#skills) | [Education](#education) | [Employment](#employment)
+[About Me](#about_me)[Skills](#skills) | [Education](#education) | [Employment](#employment)
 
-I am an enthusiastic, outgoing and ambitious person looking forward to starting my career in tech.
+***
+### <a name="about_me">About Me</a>
+***
 
-Currently I am enrolled at Makers Academy for the remote course starting in January.
+I am an enthusiastic, outgoing and ambitious person looking forward to starting my career in tech. Enthralled by technology and computers from an early age I decided it was about time I learnt how to code. I started my journey with codecademy courses before deciding to step it up a notch by applying to one of Europe's leading development bootcamps.<br><br>
+
+Currently I am enrolled at Makers Academy for the remote course starting in January.<br><br>
 
 ***
 ### <a name="skills">Skills</a>
