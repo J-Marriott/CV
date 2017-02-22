@@ -28,7 +28,7 @@ Another skill I have improved during my time in education and employment is my a
 
 Project title               | Github Repository  						 | Details		
 --------------------------- | ------------------------------ | ------------------------
-Yello 					     | [Yello] (https://github.com/treborb/yello)                 | Yelp clone using Ruby/Rails
+Yello (in progress) 	     | [Yello] (https://github.com/treborb/yello)                 | Yelp clone using Ruby/Rails
 Chitter                     | [Chitter] (https://github.com/J-Marriott/chitter-challenge)| Twitter clone built with Ruby/Sinatra
 MakersBnB                    | [MakersBnB] (https://github.com/J-Marriott/Makersbnb)     | AirBnB clone built with Ruby/Sinatra
 
