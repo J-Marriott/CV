@@ -15,7 +15,7 @@ I pride myself on my interpersonal skills which have been honed by working in th
 ### <a name="skills">Skills</a>
 
 ####Makers Academy
-Currently I'm near the end of my eighth week as a Makers Academy student. It's been challenging, at times frustrating, but always enjoyable. Working on projects both alone and as part of a team has tested my ability to work under pressure, find solutions to tricky problems and take in new information on a daily basis. Due to the structure of the course I am pair programming daily, often well into the evening, as well as working on weekend challenges.
+Currently I'm near the end of my eighth week as a Makers Academy student. It's been challenging, at times frustrating, but always enjoyable. Working on projects both alone and as part of a team has tested my ability to work under pressure, find solutions to tricky problems and take in new information on a daily basis. Due to the structure of the course I am pair programming daily, often well into the evening, as well as working on weekend challenges by myself.
 
 ####Communication
 In my previous roles I have worked with a wide range of customers, patients and employees with varying ages and levels of expertise in their fields. I believe communication is key to a successful working relationship whether it's explaining a tricky technical concept to somebody, giving a presentation, asking for assistance or even just providing an update on the current status of a project I'm working on. I pride myself on my ability on to adjust my approach depending on the target audience and prevent any miscommunication from occurring.
