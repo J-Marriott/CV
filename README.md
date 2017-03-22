@@ -14,29 +14,29 @@ I pride myself on my interpersonal skills which have been honed by working in th
 ***
 ### <a name="skills">Skills</a>
 
-####Makers Academy
+###Makers Academy
 Currently I'm near the end of my ninth week as a Makers Academy student. It's been challenging, at times frustrating, but always enjoyable. Working on projects both alone and as part of a team has tested my ability to work under pressure, find solutions to tricky problems and take in new information on a daily basis. Due to the structure of the course I am pair programming daily, often well into the evening, as well as working on weekend challenges by myself.
 
-####Communication
+###Communication
 In my previous roles I have worked with a wide range of customers, patients and employees with varying ages and levels of expertise in their fields. I believe communication is key to a successful working relationship whether it's explaining a tricky technical concept to somebody, giving a presentation, asking for assistance or even just providing an update on the current status of a project I'm working on. I pride myself on my ability on to adjust my approach depending on the target audience and prevent any miscommunication from occurring.
 
-####Critical Reasoning and Problem Solving
+###Critical Reasoning and Problem Solving
 Another skill I have improved during my time in education and employment is my ability to critically analyse situations and provide simple solutions to problems. Working as a physiotherapist I regularly had to think on my feet and alter treatments accordingly for the benefit my patients. Working in sport I was often the first responder to incidents on the field of play and had to be alert and ready to provide emergency first aid working with both youth level and professional athletes.
 ***
 
 ### <a name="projects">Projects</a>
 
-Project title               | Github Repository  						 | Details		
+ Github Repository  						 | Details		
 --------------------------- | ------------------------------ | ------------------------
-NotMyNews                   | [NotMyNews] (https://github.com/J-Marriott/NotMyNews)      | News to challenge your viewpoint
-Yello 	                    | [Yello] (https://github.com/treborb/yello)                 | Yelp clone using Ruby/Rails
-Chitter                     | [Chitter] (https://github.com/J-Marriott/chitter-challenge)| Twitter clone built with Ruby/Sinatra
-MakersBnB                    | [MakersBnB] (https://github.com/J-Marriott/Makersbnb)     | AirBnB clone built with Ruby/Sinatra
+<a href="https://github.com/J-Marriott/NotMyNews">NotMyNews</a>      | News to challenge your viewpoint (JS/Ruby/Rails)
+<a href="https://github.com/treborb/yello">Yello</a>                | Yelp clone using Ruby/Rails
+<a href="https://github.com/J-Marriott/chitter-challenge">Chitter</a>| Twitter clone built with Ruby/Sinatra
+<a href="https://github.com/J-Marriott/Makersbnb">MakersBnB</a>     | AirBnB clone built with Ruby/Sinatra
 
 ### <a name="education">Education</a>
 
 
-####Makers Academy (January - April 2017)
+###Makers Academy (January - April 2017)
 - Curiosity and passion for best practices
 - Independent learner
 - OOP, TDD, SOLID, MVC
@@ -46,15 +46,15 @@ MakersBnB                    | [MakersBnB] (https://github.com/J-Marriott/Makers
 - PostgreSQL, Active Record
 
 
-####Sheffield Hallam University (2015)
+###Sheffield Hallam University (2015)
 - BSc (Hons) Physiotherapy - 2.1 
 
-####Danum Sixth Form Technology College (2008)
+###Danum Sixth Form Technology College (2008)
 - Biology - A
 - Mathematics - A
 - Statistics - A
 
-####Other Qualifications
+###Other Qualifications
 - FA Advanced Resuscitation and Emergency Aid (AREA) Course
 - UK Maths Challenge (Gold / Best in school award)
 
