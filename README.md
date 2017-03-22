@@ -1,18 +1,17 @@
-# Joe Marriott
+## Joe Marriott
 
 [About Me](#about_me)  |  [Skills](#skills)  |  [Projects](#projects) |  [Education](#education)  |  [Employment](#employment) | [Interests](#interests)
-***
 
 
-### <a name="about_me">About Me</a>
+## <a name="about_me">About Me</a>
 
 
 I am an enthusiastic, outgoing and ambitious full stack Ruby developer looking forward to starting my career in tech. Enthralled by technology and computers from an early age, I decided it was about time I learnt how to code. I started my journey with online tutorials before deciding to step it up a notch by applying to one of Europe's leading development bootcamps.
 
 I pride myself on my interpersonal skills which have been honed by working in the retail and healthcare sectors, and also my ability to adapt and learn new skills especially when pushed outside my comfort zone. 
 
-***
-### <a name="skills">Skills</a>
+
+## <a name="skills">Skills</a>
 
 ###Makers Academy
 Currently I'm near the end of my ninth week as a Makers Academy student. It's been challenging, at times frustrating, but always enjoyable. Working on projects both alone and as part of a team has tested my ability to work under pressure, find solutions to tricky problems and take in new information on a daily basis. Due to the structure of the course I am pair programming daily, often well into the evening, as well as working on weekend challenges by myself.
@@ -22,18 +21,19 @@ In my previous roles I have worked with a wide range of customers, patients and 
 
 ###Critical Reasoning and Problem Solving
 Another skill I have improved during my time in education and employment is my ability to critically analyse situations and provide simple solutions to problems. Working as a physiotherapist I regularly had to think on my feet and alter treatments accordingly for the benefit my patients. Working in sport I was often the first responder to incidents on the field of play and had to be alert and ready to provide emergency first aid working with both youth level and professional athletes.
-***
 
-### <a name="projects">Projects</a>
 
- Github Repository  						 | Details		
---------------------------- | ------------------------------ | ------------------------
-<a href="https://github.com/J-Marriott/NotMyNews">NotMyNews</a>      | News to challenge your viewpoint (JS/Ruby/Rails)
-<a href="https://github.com/treborb/yello">Yello</a>                | Yelp clone using Ruby/Rails
-<a href="https://github.com/J-Marriott/chitter-challenge">Chitter</a>| Twitter clone built with Ruby/Sinatra
-<a href="https://github.com/J-Marriott/Makersbnb">MakersBnB</a>     | AirBnB clone built with Ruby/Sinatra
+## <a name="projects">Projects</a>
 
-### <a name="education">Education</a>
+ Github Repository	| Details
+ ---	|	---
+[NotMyNews](https://github.com/J-Marriott/NotMyNews)	| News to challenge your viewpoint (JS/Ruby/Rails)
+[Yello](https://github.com/treborb/yello)	| Yelp clone using Ruby/Rails
+[Chitter](https://github.com/J-Marriott/chitter-challenge)	| Twitter clone built with Ruby/Sinatra
+[MakersBnB](https://github.com/J-Marriott/Makersbnb)	| AirBnB clone built with Ruby/Sinatra
+
+
+## <a name="education">Education</a>
 
 
 ###Makers Academy (January - April 2017)
@@ -59,16 +59,12 @@ Another skill I have improved during my time in education and employment is my a
 - UK Maths Challenge (Gold / Best in school award)
 
 
-***
-
-
-
-### <a name="employment">Employment</a>
+## <a name="employment">Employment</a>
 
 
 **Doncaster Rovers Football Club** <br>
 Lead Academy Physiotherapist <br>
-(February 2016 - September 2016) <br>
+February 2016 - September 2016 <br>
 
 **Sheffield Wednesday Football Club** <br>
 Staff Academy Physiotherapist <br>
@@ -86,7 +82,8 @@ September 2010 - July 2015 <br>
 Sales Advisor <br>
 September 2006 - August 2010 <br>
 
-### <a name="interests">Interests</a>
+
+## <a name="interests">Interests</a>
 
 During my time at university I worked as a student representative and organised a number of fund raising events for Sheffield Children’s Hospital. In my free time I enjoy listening to and discovering new music and I am a keen guitar player, I also enjoy going to the gym and cycling and I am a self-confessed fantasy football obsessive.
 
